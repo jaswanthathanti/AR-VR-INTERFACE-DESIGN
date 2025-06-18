@@ -61,3 +61,5 @@ AI-powered content generation
 This prototype showcases the future of spatial computing interfaces, where users can naturally interact with digital content using gestures, voice, and gaze - making 3D design as intuitive as working with physical objects.
 
 *OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/63bdc852-9121-4390-b1f2-afa715dba6d1)
